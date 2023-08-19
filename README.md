@@ -34,3 +34,6 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
 
  ## OutPut
  ![Output image](/output.png)
+
+ # Author :
+ [Shubham Bhoite](https://github.com/Shubham-Bhoite)
