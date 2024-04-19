@@ -2,7 +2,7 @@
 
 
 <h2>Aim of the Project:</h2>
-<p>To build a gender and age detection system using Python .</p>
+<p>To build a Gender and Age detection system using Python .</p>
 
 <h2>About the Project :</h2>
 <p>
