@@ -32,6 +32,14 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
   <li>identify.py</li>
  </ul>
 
+ <h2>Commands to Run:</h2>
+ <ul>
+  <li> python identify.py</li>
+  <li> python identify.py --image shubh.jpeg</li>
+ </ul>
+ 
+ 
+
  ## OutPut
  ![Output image](/output.png)
 
